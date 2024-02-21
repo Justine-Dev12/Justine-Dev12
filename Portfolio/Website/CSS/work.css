@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: auto;
+}
+
+body{
+    background-color: rgb(17, 25, 58);
+}
+
+.name{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.lirag{
+    display: flex;
+    margin: 10px;
+    padding-left: 150px;
+    margin-bottom: -20px;
+    width: 50%;
+    height: 50%;
+}
